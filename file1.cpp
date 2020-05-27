@@ -7,4 +7,4 @@ int main(void){
     cout<< " hello . i added a new feature" << endl ;
 }
 
-// master :  O -> O -> O -> O -> O
+// master :  ----- O -> O -> O -> O -> O
